@@ -24,10 +24,10 @@
             <h2 class="archive__item-title">
               {{ f.title }}
               {% if f.github %}
-                <a href="{{ f.github }}"><img src="/assets/icons/Github.png" width="35px"></a>
+                <a href="{{ f.github }}"><img src="assets/icons/Github.png" width="35px"></a>
               {% endif %}
               {% if f.email %}
-                <a href="{{ f.email }}"><img src="/assets/icons/email.png" width="35px"></a>
+                <a href="{{ f.email }}"><img src="assets/icons/email.png" width="35px"></a>
               {% endif %}
             </h2>
           {% endif %}
