@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /members
-author: Billy Rick
+author: 520Lab
 classes:
   - wide
 professor:
