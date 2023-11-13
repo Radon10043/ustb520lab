@@ -7,11 +7,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/team.jpg
-  actions:
-    - label: "Learn More"
-      url: "/"
   caption: "Last Updated: 2022.04"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "北京科技大学软件与测试研究团队由孙昌爱老师带领，团队中共有25名成员，在服务计算和软件测试等领域具有扎实的理论基础和技术积累，参与了多个各项国家、省重点项目，取得了多项具有国际影响力的研究成果。"
 intro:
   - excerpt: '北京科技大学服务计算与软件测试研究团队由1名教授、2名副教授、22名研究生名组成，依托材料领域知识工程北京市重点实验室、智能超算融合应用技术研究中心等省部级科研平台，在服务计算、软件测试等领域具有扎实的理论基础和技术积累，参与各项国家、省重点项目，拥有多项核心自主知识产权，开发了多个应用平台并已在实际生产环境下开展部署，取得多项具有国际影响力的研究成果。'
 ---
