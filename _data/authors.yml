@@ -4,12 +4,14 @@
   avatar      : "/assets/images/team_square.jpg"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
+      icon: "fas fa-fw fa-envelope" # from https://fontawesome.com/
+      url: "casun@ustb.edu.cn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+      url: "https://radon10043.github.io/ustb520lab/"
     - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://github.com/"
 dsj:
   name        : "董思锦"
   bio         : "master"
