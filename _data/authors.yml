@@ -10,5 +10,14 @@
       icon: "fas fa-fw fa-link"
       url: "https://thewhip.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+dsj:
+  name        : "董思锦"
+  bio         : "master"
+  avatar      : "/assets/images/avatar1.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:radon@xs.ustb.edu.cn"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
